@@ -6,7 +6,9 @@ class PersonalDetails extends Component{
     render(){
       const imgstyle = {
         width: "271.86px",
-        height: "266.14px"
+        height: "266.14px",
+        borderRadius: "12px",
+        border: "1px solid black"
       }
         return <div className='details'>  
                   <div className="img-container">

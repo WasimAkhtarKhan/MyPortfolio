@@ -1,0 +1,9 @@
+.container{
+    position: relative;
+    background: rgb(2, 82, 78);
+    top: 90px;
+    color: #828282;
+    border-radius: 12px;
+    box-shadow: 0px 5px 5px rgb(182, 182, 182);
+
+}
