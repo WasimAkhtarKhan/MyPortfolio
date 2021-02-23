@@ -26,7 +26,8 @@
   border-radius: 12px;
 }
 .container2{
+  position: absolute;
   width: 1046px;
-  height: 311px;
+  left: 197px;
 }
 
