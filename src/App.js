@@ -2,7 +2,10 @@
 import './App.css';
 import PersonalDetails from './Components/PersonalDetails';
 import Blog from './Components/Blog'
+import Skills from './Components/Skills'
+import Hobbies from './Components/Hobbies'
 import { render } from '@testing-library/react';
+import Experience from './Components/Experience';
 
 
 function App() {
@@ -17,8 +20,14 @@ function App() {
           <div className="container2">
           <PersonalDetails />
           <div class="row" style={rowstyle}>
-            <div class="col-5">FrontEnd</div>
-            <div class="col-7"><Blog /></div>
+            <div class="col-5">
+              <Skills />
+            <div><Hobbies /></div>
+            </div>
+            <div class="col-7">
+              <Blog />
+            <div><Experience /></div>
+            </div>
           </div>
           </div>
         </div>
