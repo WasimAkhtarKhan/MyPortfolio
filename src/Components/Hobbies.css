@@ -1,6 +1,6 @@
 .heading-hob{
-    top: 20px;
-    left: 21px;
+    padding-top: 20px;
+    padding-left: 21px;
     text-align: left;
     font-family: Montserrat;
     font-style: normal;
@@ -12,13 +12,12 @@
 }
 .container-hob{
     position: relative;
-
     background: #ffffff;
     width: 100%;
 }
 .all-hob{
     position: relative;
-    height: 536px ;
+    bottom: 0px;
 }
 .img-hob{
     position: relative;

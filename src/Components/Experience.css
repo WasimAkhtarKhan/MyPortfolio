@@ -1,0 +1,56 @@
+.exp-container {
+        position: relative;
+        background: rgb(255, 255, 255);
+        height: 500px;
+        color: #828282;
+        border-radius: 12px;
+        box-shadow: 0px 5px 5px rgb(182, 182, 182);
+        margin-bottom: 20px;
+}
+.expcon{
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        height: 440px;
+        background: #ffffff;
+}
+.exps{
+        position: relative;
+        height: 200px;
+        width: 100%;
+        bottom: 0px;
+        margin-top: 10px;
+}
+.img-exp{
+        left: 10px;
+        position:absolute;
+        width: 180px;
+        height: 180px;
+        background: #ceb1b1;
+}
+.title-exp{
+        position: absolute;
+        left: 200px;
+        text-align: left;
+height: 22px;
+padding: 10px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #333333;
+}
+.exp-des{
+        position: relative;
+        top: 40px;
+        left: 210px;
+        height: 20px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 20px;
+        color: #828282;
+        text-align: left;
+}

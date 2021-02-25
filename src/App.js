@@ -4,8 +4,10 @@ import PersonalDetails from './Components/PersonalDetails';
 import Blog from './Components/Blog'
 import Skills from './Components/Skills'
 import Hobbies from './Components/Hobbies'
-import { render } from '@testing-library/react';
 import Experience from './Components/Experience';
+import Projects from './Components/Projects'
+import { render } from '@testing-library/react';
+
 
 
 function App() {
@@ -29,6 +31,7 @@ function App() {
             <div><Experience /></div>
             </div>
           </div>
+          <div><Projects /></div>
           </div>
         </div>
       </div>
