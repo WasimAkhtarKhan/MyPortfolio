@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- LinkedIn [@your-username](https://{github.com/your-usermame})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- LinkedIn [@your-username](https://www.linkedin.com/in/wasim-akhtar-khan/})
+- GitHub [@WasimAkhtarKhan](https://{github.com/WasimAkhtarKhan})
+- Twitter [@your-twitter](https://{twitter.com/i_am_wak_})
