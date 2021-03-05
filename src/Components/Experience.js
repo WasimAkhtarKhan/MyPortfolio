@@ -9,13 +9,13 @@ function Experience() {
                 <div className="expcon">
                     <div className="exps">
                         <div><img className="img-exp" src="images/myimage.jpg" /></div>
-                        <div className="title-exp">Heading</div>
-                        <div className="exp-des">Description</div>
+                        <div className="title-exp">Modelling</div>
+                        <div className="exp-des">Part-Time Model at Ford Mustang</div>
                     </div>
                     <div className="exps">
-                        <div><img className="img-exp" src="images/myimage.jpg" /></div>
-                        <div className="title-exp">Heading</div>
-                        <div className="exp-des">Description</div>
+                        <div><img className="img-exp" src="images/Jaguar.jpg" /></div>
+                        <div className="title-exp">Web Developer</div>
+                        <div className="exp-des">Software Developer Engineer at Jaguar</div>
                     </div>
                 </div>
             </div>

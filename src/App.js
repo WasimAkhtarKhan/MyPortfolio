@@ -33,6 +33,7 @@ function App() {
           </div>
           <div><Projects /></div>
           </div>
+          <div className="nameTag">Created By <b><u>WasimAkhtarKhan</u></b>-devchallanges.io</div>
         </div>
       </div>
     </div>
