@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- LinkedIn [@WasimAkhtarKhan](https://linkedin.com/in/wasim-akhtar-khan/)
-- GitHub [@WasimAkhtarKhan](https://github.com/WasimAkhtarKhan)
+- LinkedIn [Wasim Akhtar Khan](https://linkedin.com/in/wasim-akhtar-khan/)
+- GitHub [Wasim Akhtar Khan](https://github.com/WasimAkhtarKhan)
 - Twitter [@i_am_wak_](https://twitter.com/i_am_wak_)
